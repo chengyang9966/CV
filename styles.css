@@ -1,0 +1,102 @@
+.top {
+  background-color:#EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 6.25rem;
+  color: #66BFBF;
+}
+
+.tagline {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+
+}
+
+h2{
+color: #66BFBF;
+}
+
+a {
+  color: #11999E;
+}
+
+.top {
+  font-family: 'Permanent Marker', cursive;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+}
+
+.icon {
+  width: 20%;
+  float: left;
+margin-right: 30px;
+}
+.icon-a{
+  width:20%;
+  float: right;
+}
+
+.type_10 {
+  border-style: none none dotted;
+  border-width: 8px;
+  color: #EAF6F6;
+  width: 70px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.middle-container{
+  padding-bottom: 8rem;
+}
+.butn {
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #EAF6F6;
+  font-size: 20px;
+  background: #11999E;
+  padding: 9px 18px 10px 20px;
+  text-decoration: none;
+}
+  .butn:hover {
+    background: #7ed3b2;
+    text-decoration: none;
+  }
+
+.bottom-container {
+  font-family: 'Shadows Into Light', cursive;
+  background-color: #66BFBF;
+  color:#11999E;
+}
+
+.identification{
+  color:#EAF6F6;
+}

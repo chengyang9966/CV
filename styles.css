@@ -2,6 +2,7 @@
   background-color:#EAF6F6;
   padding-top: 100px;
   position: relative;
+  margin-bottom: 5rem;
 }
 
 body {
@@ -64,7 +65,12 @@ margin-right: 30px;
   border-width: 8px;
   color: #EAF6F6;
   width: 70px;
-
+}
+.skills{
+margin-top: 5rem;
+}
+.contact-me{
+margin-top: 5rem;
 }
 .skill-row{
   width: 50%;
